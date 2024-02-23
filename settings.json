@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "dart.flutterSdkPath": "C:\\src\\flutter",
+    "workbench.startupEditor": "none",
+    "git.suggestSmartCommit": false,
+    "workbench.iconTheme": "symbols",
+    "git.ignoreRebaseWarning": true,
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
+    "dart.warnWhenEditingFilesOutsideWorkspace": false,
+    "symbols.hidesExplorerArrows": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.fontLigatures": true,
+    "workbench.editor.labelFormat": "short",
+    "explorer.compactFolders": false,
+    "redhat.telemetry.enabled": false,
+    "breadcrumbs.enabled": false,
+
+
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "window.titleBarStyle": "native",
+    "apc.font.family": "Inter",
+
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none",
+        ".editor-actions": "display: none",
+    },
+
+    "apc.listRow": {
+        "height": 24,
+    },
+}
